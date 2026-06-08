@@ -1,36 +1,36 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/14zr_w9~_mekm.js"
+    "static/chunks/0eenk8k9r_pe8.js"
   ],
   "/_error": [
     "static/chunks/0j5x9qxbksqy_.js"
   ],
   "/about-us": [
-    "static/chunks/14~tfqj1_82nv.js"
+    "static/chunks/09epjw250jlct.js"
   ],
   "/blog": [
-    "static/chunks/0-q-2j5-xaosv.js"
+    "static/chunks/135_rz1tg0cqe.js"
   ],
   "/blog/[slug]": [
-    "static/chunks/022cwpfaz5cea.js"
+    "static/chunks/0va5b7rp8m.ye.js"
   ],
   "/careers": [
-    "static/chunks/103~p.fic3ox3.js"
+    "static/chunks/11fyuopp2cvj6.js"
   ],
   "/contact-us": [
-    "static/chunks/0upm961vw4nq6.js"
+    "static/chunks/00uvjuvg5lmvx.js"
   ],
   "/policy": [
-    "static/chunks/0_-av979m61e7.js"
+    "static/chunks/0_6345nrgtdh..js"
   ],
   "/product": [
-    "static/chunks/09deoo-h7jk~y.js"
+    "static/chunks/031bp~r..kobg.js"
   ],
   "/technologies": [
-    "static/chunks/1650nkm9oynpb.js"
+    "static/chunks/0ds7lx0f8-2if.js"
   ],
   "/terms": [
-    "static/chunks/0sqe.xn1mpmxg.js"
+    "static/chunks/0tkl~5330rifb.js"
   ],
   "__rewrites": {
     "afterFiles": [],
